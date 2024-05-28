@@ -28,7 +28,7 @@ dependencies:
   args: ^2.0.0
   vector_math: ^2.1.0
   jovial_misc: ^0.8.0
-  http: ^1.0.0
+  http: ^0.13.0
   meta: ^1.7.0
   flutter:
     sdk: flutter
